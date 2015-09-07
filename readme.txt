@@ -2,3 +2,4 @@ Le projet consiste à créer une nouvelle recette de cola, entre différentes recet
 - Breizh Cola, 
 - stef
 - Coca Cola
+- Virgin Cola

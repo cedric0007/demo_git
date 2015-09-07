@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A JavaScript library for building user interfaces
+title: Un projet de recette
 id: home
 ---
 
